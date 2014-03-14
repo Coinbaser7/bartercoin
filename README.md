@@ -1,0 +1,4 @@
+bartercoin
+==========
+
+Cryptocurrency
